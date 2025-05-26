@@ -1,4 +1,4 @@
-
+print("Geometric")
 def area(a):
     return a * a
 
